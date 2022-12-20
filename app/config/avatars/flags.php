@@ -7,6 +7,7 @@ return [
     'ad' => __DIR__ . '/flags/ad.png',
     'ae' => __DIR__ . '/flags/ae.png',
     'ar' => __DIR__ . '/flags/ar.png',
+    'ar' => __DIR__ . '/flags/aq.png',
     'am' => __DIR__ . '/flags/am.png',
     'ag' => __DIR__ . '/flags/ag.png',
     'au' => __DIR__ . '/flags/au.png',
